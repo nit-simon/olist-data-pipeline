@@ -1,0 +1,16 @@
+# Python environment logs and binaries
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+# Data files (Never commit heavy raw datasets to GitHub)
+*.csv
+*.json
+*.xlsx
+.anaconda/
+
+# IDE configurations
+.vscode/
+.idea/
