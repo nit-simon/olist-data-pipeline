@@ -14,3 +14,9 @@ venv/
 # IDE configurations
 .vscode/
 .idea/
+
+
+# Pipeline runtime outputs
+logs/
+clean_landing_zone/
+rejected_records/
