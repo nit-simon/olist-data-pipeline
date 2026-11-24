@@ -6,6 +6,7 @@ venv/
 .venv/
 
 # Data files (Never commit heavy raw datasets to GitHub)
+raw_data/
 *.csv
 *.json
 *.xlsx
